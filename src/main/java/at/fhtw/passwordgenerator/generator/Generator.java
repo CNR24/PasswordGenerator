@@ -9,7 +9,9 @@ public class Generator {
 
     GetMapping("api/passwordgenarator")
         public <laenge> String passwordgenerator(laenge){
+            ...
 
+            // Keine Zeit Leider.
         }
 
 
